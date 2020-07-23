@@ -1,5 +1,3 @@
-Copyright (C) 2020 The LineageOS Project
-
 Common configuration for the Redmi SDM720G devices
 ============================================
 
